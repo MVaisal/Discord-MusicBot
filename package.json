@@ -1,7 +1,7 @@
 {
   "name": "discord-bot",
   "version": "5.0.0-beta",
-  "description": "Very simple discord bot with the discord.js with Song Name playing. It can able to play music with the song name",
+  "description": "Very simple discord bot with the discord.js with Song Name playing. It can able to play with the song name",
   "main": "index.js",
   "scripts": {
     "start": "node index",
